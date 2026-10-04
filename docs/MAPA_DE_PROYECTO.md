@@ -30,7 +30,7 @@ Es un problema NP-difícil (*School Timetabling*) con muchas reglas que se cruza
 - **Lenguaje:** Python (decisión pendiente de confirmar, ver preguntas).
 - **Datos de entrada:** hojas Excel/CSV o JSON/YAML versionados en el repo (fácil de revisar y corregir por jefatura).
 - **Salida:** horarios por profesor, grupo y aula en Excel/PDF + informe de calidad (qué reglas blandas se incumplen y cuánto).
-- **Interfaz:** empezar por línea de comandos + Excel; web/escritorio sólo si hace falta (fase final).
+- **Interfaz:** como la usuaria es la jefa de estudios (no técnica) y la tabla de franjas, asignaciones y cuotas de servicios cambian cada curso, la **interfaz (web local) es parte del núcleo**, no una fase final; Excel queda para importar/exportar. *(Actualizado tras la ronda 1 de respuestas, ver `RESPUESTAS.md`.)*
 
 ## 4. Fases
 
