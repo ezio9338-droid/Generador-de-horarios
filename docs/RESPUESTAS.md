@@ -126,3 +126,38 @@ Clase · Recreo (por zona: zona 1, pista, zona 2; **3 profesores por recreo**) �
 - Si faltan guardias: se usan profesores con **hora en blanco**; si tampoco hay, **reestructuración temporal** (p. ej. "hoy este profesor come a otra hora y sustituye en ésta").
 - **Excursiones**: el profesor que acompaña a un grupo necesita sustitución en las clases con **otros** grupos, **no** en las clases con el grupo que se va.
 - Equidad deseable pero limitada por los huecos de cada docente (algunos casi no tienen).
+
+---
+
+# Respuestas y decisiones (ronda 4)
+
+## Franjas y almuerzo (2026-27: primer año con sesiones de 1 hora)
+- Duración por fila: fila 6 (13:15) 1 h; fila 7 (14:15) **1 h Secundaria / 50 min Primaria**; fila 8 **50 min Primaria / 25 min Secundaria**; fila 9 (última) **40 min Primaria / 50 min Secundaria**.
+- *Incoherencia a confirmar:* la imagen indica Primaria 15:05–15:50 (45 min), el texto dice 50 min.
+- El almuerzo lo elige el programa; hay profesores que comen **13:15–14:15**, otros en 14:15 y otros a **15:15, con sólo ~25 min** (franja corta de Secundaria). → **Regla de equidad**: la franja de almuerzo corto no debe recaer siempre en las mismas personas.
+- **Secundaria termina las clases a las 15:15**; Primaria sigue hasta la última sesión.
+
+## Aula matinal
+- **7:30–8:15:** la cubre **el mismo profesor toda la semana**.
+- **8:15–inicio de clases:** **5 profesores, uno por día**.
+- **No cuenta dentro de las 40 h** (es adicional, hay que tratarlo aparte).
+
+## Estudio
+- Siempre en la **última sesión del día**: alumnos de Secundaria que comen en el cole y estudian.
+- Lo cubren **profesores de Secundaria que ya no tienen clase** a esa hora.
+
+## Jornada reducida
+- El **programa decide** días y franjas.
+- Criterio blando: **no espaciar** demasiado la jornada (evitar clase a las 9 y la siguiente a las 12, por ejemplo) → minimizar huecos / agrupar presencia.
+
+## Primaria
+- Funciona como Secundaria: **profesor por asignatura**; no existe el "tutor que da casi todo". Las horas de tutoría son con el tutor.
+
+## Bachillerato Internacional (BI)
+- **Grupos propios sólo para asignaturas IB**; las asignaturas de **modalidad** (p. ej. Química) se imparten con el resto de compañeros de Bachillerato.
+
+## Reuniones
+- Suelen ir en **hora de recreo** o en la **última sesión** (donde es más fácil que coincida Secundaria).
+
+## Pendiente
+- **Plan de estudios y asignaciones**: se pedirán a la jefa de estudios → ver `PETICION_JEFATURA.md`.
