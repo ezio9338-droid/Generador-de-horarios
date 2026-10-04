@@ -1,0 +1,13 @@
+{
+  "profesor": "Profesor Ejemplo",
+  "departamento": "Física y Química",
+  "jornada": {"tipo": "completa", "horas_semanales": 40, "entrada": "08:30", "salida": "16:30"},
+  "nota": "Horario real transcrito de la imagen: sirve de caso de prueba para el validador y el solver. Las filas siguen franjas_2026-27.json.",
+  "horario": {
+    "L": {"0": null, "1": "4º ESO FQ", "2": "2º BACH FÍSICA", "3": "1º BACH FQ SALUD", "4": null, "5": "3º ESO FQ", "6": "2º ESO FQ", "7": "1º BACH FQ TECN", "8": "ALMUERZO", "9": "SEMINARIO FQ (ESO)"},
+    "M": {"0": null, "1": "2º ESO FQ", "2": "1º BACH FQ TECN", "3": "2º BACH QUÍM", "4": "RECREO ESO-BACH (Pista)", "5": "2º BACH FÍSICA", "6": "1º BACH FQ SALUD", "7": "ALMUERZO", "8": "TUTORÍA FAMILIAS", "9": "REUNIÓN INNOVACIÓN TECNOLÓGICA / EQUIPO I+D ALUMNOS"},
+    "X": {"0": null, "1": "4º ESO FQ", "2": "1º BACH FQ TECN", "3": "2º BACH QUÍM", "4": null, "5": "1º BACH FQ SALUD", "6": "2º BACH FÍSICA", "7": "ALMUERZO", "8": null, "9": "SEMINARIO FQ (BACH)"},
+    "J": {"0": null, "1": "2º BACH FÍSICA", "2": "2º ESO FQ", "3": "3º ESO FQ", "4": "TUTORÍA PERSONAL", "5": "1º BACH FQ SALUD", "6": "2º BACH QUÍMICA", "7": "ALMUERZO", "8": null, "9": "GUARDIA"},
+    "V": {"0": "AULA MATINAL 8:15 Y GUARDIA 7:30", "1": "3º ESO FQ", "2": "1º BACH FQ TECN", "3": "2º BACH QUÍM", "4": null, "5": "4º ESO FQ", "6": "GUARDIA", "7": "ALMUERZO", "8": "GUARDIA", "9": "ESTUDIO"}
+  }
+}

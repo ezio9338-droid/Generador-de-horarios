@@ -80,3 +80,49 @@ Si un profesor falta un día:
 2. Cada una se **cubre con un profesor que tenga guardia asignada en esa franja**.
 3. Se **genera un Excel de ese día** con el cuadrante de cobertura.
 (Con reparto equitativo y avisos si faltan guardias en alguna franja.)
+
+---
+
+# Respuestas y decisiones (ronda 3) — a partir del horario de ejemplo (profesor de ejemplo, FQ, curso 2026-27)
+
+## Aclaraciones
+- **Cada curso tiene un único grupo** (no hay 2º ESO A/B). Lo máximo es que el grupo se **desdoble por modalidades/optativas**. "3 clases con 2º ESO" = **3 horas semanales** con ese grupo.
+- La carga del ejemplo cuadra con la imagen: 2º/3º/4º ESO → 3 h cada uno; 1º Bach FQ Salud y FQ Tecn → 4 h cada uno; 2º Bach Física y Química → 4 h cada una; 2 seminarios, 1 recreo, 3 guardias, 1 tutoría de familias, 1 tutoría personal, 1 reunión, 1 estudio, almuerzo.
+- **Jornada completa = 40 h/semana (8:30–16:30, L–V)**. Lo que no es clase ni complementaria son **"horas en blanco"** (disponibles para sustituciones). **Jornadas reducidas**: cada profesor tiene la suya (20, 30, 35 h…) y su horario se adapta a sus asignaturas/servicios.
+- Un mismo profesor puede tener **tutoría personal** (horas con su propio grupo; **el nº varía de un curso a otro**). En Secundaria los tutores son profesores de área.
+- El **reparto de alumnos y la asignación de aula en desdobles** la deciden los profesores; el programa **asigna aula según nº de alumnos**.
+- **≈18 aulas**, cada una con nombre y **condicionantes** (p. ej. 1º–3º EPO sólo rotan entre aula 1 y aula 3). El detalle llegará más adelante.
+- Matemáticas II / Matemáticas CCSS: el único caso de una asignatura repetida por bloques/modalidades de Bachillerato.
+
+## Franjas del curso 2026-27 (de la imagen)
+Cada fila es una franja global; las horas exactas dependen de la etapa (EPO = Primaria; ESO-BACH = Secundaria y Bachillerato).
+
+| Fila | EPO | ESO-BACH |
+|---|---|---|
+| 0 | 7:30–8:45 (aula matinal / guardia) | igual |
+| 1 | 8:45–9:45 | 8:45–9:45 |
+| 2 | 9:45–10:45 | 9:45–10:45 |
+| 3 | 10:45–11:15 **recreo** | 10:45–11:45 clase |
+| 4 | 11:15–12:15 clase | 11:45–12:15 **recreo** |
+| 5 | 12:15–13:15 | 12:15–13:15 |
+| 6 | 13:15–14:15 | 13:15–14:15 (franja de **almuerzo posible**) |
+| 7 | 14:15–15:05 | 14:15–15:15 |
+| 8 | 15:05–15:50 | 15:15–15:40 **almuerzo** |
+| 9 | 15:50–16:30 | 15:40–16:30 |
+
+*(Pendiente de confirmar fila a fila; ver preguntas.)*
+
+## Tipos de actividad vistos en el horario de ejemplo
+Clase · Recreo (por zona: zona 1, pista, zona 2; **3 profesores por recreo**) · Guardia (hora de sustitución) · Almuerzo · Seminario (tarde; ESO / Bach / Primaria) · Tutoría de familias · Tutoría personal (con su grupo) · Reunión de equipo (innovación, I+D…) · Estudio (L–V, última franja de la tarde) · Aula matinal (7:30–8:15) y guardia de aula matinal.
+
+## Equipos de trabajo y reuniones
+- Equipos de **trabajo**: profesores de **cualquier etapa**. Reuniones de **departamento**: profesores del mismo departamento.
+- Mínimo **1 reunión semanal por equipo**; el programa debe hacer **coincidir a los miembros**.
+
+## Almuerzo
+- Lo **elige el programa** dentro de las franjas posibles (en 2026-27: 13:15–14:15, 14:15–… y 15:05/15:15–…; puede cambiar cada curso).
+
+## Sustituciones (ampliado)
+- Si faltan guardias: se usan profesores con **hora en blanco**; si tampoco hay, **reestructuración temporal** (p. ej. "hoy este profesor come a otra hora y sustituye en ésta").
+- **Excursiones**: el profesor que acompaña a un grupo necesita sustitución en las clases con **otros** grupos, **no** en las clases con el grupo que se va.
+- Equidad deseable pero limitada por los huecos de cada docente (algunos casi no tienen).

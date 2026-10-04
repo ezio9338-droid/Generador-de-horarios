@@ -1,0 +1,17 @@
+{
+  "curso": "2026-27",
+  "nota": "Transcrito de la imagen del horario de ejemplo. Pendiente de confirmar con jefatura.",
+  "dias": ["L", "M", "X", "J", "V"],
+  "filas": [
+    {"id": 0, "EPO": ["07:30", "08:45"], "ESO_BACH": ["07:30", "08:45"], "tipo": "aula_matinal"},
+    {"id": 1, "EPO": ["08:45", "09:45"], "ESO_BACH": ["08:45", "09:45"], "tipo": "lectiva"},
+    {"id": 2, "EPO": ["09:45", "10:45"], "ESO_BACH": ["09:45", "10:45"], "tipo": "lectiva"},
+    {"id": 3, "EPO": ["10:45", "11:15"], "ESO_BACH": ["10:45", "11:45"], "tipo": "mixta", "EPO_tipo": "recreo", "ESO_BACH_tipo": "lectiva"},
+    {"id": 4, "EPO": ["11:15", "12:15"], "ESO_BACH": ["11:45", "12:15"], "tipo": "mixta", "EPO_tipo": "lectiva", "ESO_BACH_tipo": "recreo"},
+    {"id": 5, "EPO": ["12:15", "13:15"], "ESO_BACH": ["12:15", "13:15"], "tipo": "lectiva"},
+    {"id": 6, "EPO": ["13:15", "14:15"], "ESO_BACH": ["13:15", "14:15"], "tipo": "lectiva", "almuerzo_posible": true},
+    {"id": 7, "EPO": ["14:15", "15:05"], "ESO_BACH": ["14:15", "15:15"], "tipo": "lectiva_o_almuerzo", "almuerzo_posible": true},
+    {"id": 8, "EPO": ["15:05", "15:50"], "ESO_BACH": ["15:15", "15:40"], "tipo": "almuerzo_o_complementaria", "almuerzo_posible": true},
+    {"id": 9, "EPO": ["15:50", "16:30"], "ESO_BACH": ["15:40", "16:30"], "tipo": "tarde"}
+  ]
+}
