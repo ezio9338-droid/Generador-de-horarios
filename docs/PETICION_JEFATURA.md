@@ -5,7 +5,6 @@ Objetivo: que el programa reproduzca (y mejore) lo que ella hace hoy a mano. Lo 
 *Ya tenemos: la tabla de franjas de este curso, la estructura de etapas y cursos (un solo grupo por curso), el funcionamiento del almuerzo, aula matinal, estudio, recreos y sustituciones, y un horario de ejemplo. Aquí sólo se piden los datos que faltan.*
 
 ## 1. Estructura del centro
-- Confirmar la duración de la franja de 15:05 de Primaria: ¿**45 o 50 minutos**?
 - ⭐ **Nº de alumnos** de cada curso y, en Bachillerato, de cada **rama/modalidad**.
 - ⭐ Lista de **aulas** (unas 18): nombre, **capacidad** y restricciones (p. ej. "1º–3º EPO sólo rotan entre aula 1 y aula 3"), aulas especiales (laboratorio, informática, gimnasio, pista).
 

@@ -132,8 +132,7 @@ Clase · Recreo (por zona: zona 1, pista, zona 2; **3 profesores por recreo**) �
 # Respuestas y decisiones (ronda 4)
 
 ## Franjas y almuerzo (2026-27: primer año con sesiones de 1 hora)
-- Duración por fila: fila 6 (13:15) 1 h; fila 7 (14:15) **1 h Secundaria / 50 min Primaria**; fila 8 **50 min Primaria / 25 min Secundaria**; fila 9 (última) **40 min Primaria / 50 min Secundaria**.
-- *Incoherencia a confirmar:* la imagen indica Primaria 15:05–15:50 (45 min), el texto dice 50 min.
+- Duración por fila: fila 6 (13:15) 1 h; fila 7 (14:15) **1 h Secundaria / 50 min Primaria**; fila 8 **45 min Primaria (15:05–15:50, confirmado) / 25 min Secundaria**; fila 9 (última) **40 min Primaria / 50 min Secundaria**.
 - El almuerzo lo elige el programa; hay profesores que comen **13:15–14:15**, otros en 14:15 y otros a **15:15, con sólo ~25 min** (franja corta de Secundaria). → **Regla de equidad**: la franja de almuerzo corto no debe recaer siempre en las mismas personas.
 - **Secundaria termina las clases a las 15:15**; Primaria sigue hasta la última sesión.
 
@@ -164,3 +163,6 @@ Clase · Recreo (por zona: zona 1, pista, zona 2; **3 profesores por recreo**) �
 
 ## Nota (ronda 5)
 Lo descrito en estas rondas es el funcionamiento del **curso 2026-27**; el programa se usará de verdad en cursos posteriores, así que todo (franjas, etapas, servicios, jornadas, reglas) debe ser configurable. Ver `PRINCIPIOS_DE_DISENO.md`.
+
+## Corrección (ronda 6)
+La franja de Primaria de 15:05–15:50 dura **45 min** (confirmado; el "50" de la ronda 4 era un error). Los datos de `datos/ejemplo/franjas_2026-27.json` son correctos.
