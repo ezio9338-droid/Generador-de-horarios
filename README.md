@@ -8,3 +8,4 @@ Estado: **Fase 0 — Descubrimiento.**
 - [Cuestionario de descubrimiento](docs/PREGUNTAS.md)
 - [Respuestas y decisiones](docs/RESPUESTAS.md)
 - [Información a pedir a jefatura](docs/PETICION_JEFATURA.md)
+- [Principios de diseño (flexibilidad ante cambios)](docs/PRINCIPIOS_DE_DISENO.md)

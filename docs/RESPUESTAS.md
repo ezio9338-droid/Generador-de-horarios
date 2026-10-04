@@ -161,3 +161,6 @@ Clase · Recreo (por zona: zona 1, pista, zona 2; **3 profesores por recreo**) �
 
 ## Pendiente
 - **Plan de estudios y asignaciones**: se pedirán a la jefa de estudios → ver `PETICION_JEFATURA.md`.
+
+## Nota (ronda 5)
+Lo descrito en estas rondas es el funcionamiento del **curso 2026-27**; el programa se usará de verdad en cursos posteriores, así que todo (franjas, etapas, servicios, jornadas, reglas) debe ser configurable. Ver `PRINCIPIOS_DE_DISENO.md`.
