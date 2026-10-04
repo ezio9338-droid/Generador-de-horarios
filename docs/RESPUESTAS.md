@@ -28,3 +28,55 @@ Ejemplo: en una rama de Bachillerato, Química, Dibujo Técnico e Historia del A
 2. **Nada fijo en el código**: franjas, nombres de asignaturas, tipos de servicio, tipos de jornada y cuotas deben ser **datos configurables**.
 3. Las **reglas** también deben ser configurables (catálogo con activar/desactivar y peso), porque aún no están definidas.
 4. Producto pensado para evolucionar durante el curso: entregar en incrementos que la jefa de estudios pueda probar.
+
+---
+
+# Respuestas y decisiones (ronda 2)
+
+## Bloques simultáneos (desdobles)
+- Las asignaturas de un bloque tienen **la misma carga semanal** y se **reparten igual entre días** (mismos días y franjas para todas).
+- Hay bloques simultáneos también en **ESO** (no sólo Bachillerato).
+- Existe un 2º tipo: **un mismo curso/grupo numeroso se parte** y se da **la misma asignatura a la vez con profesores distintos** (por nº de alumnos).
+- Regla general (muy prioritaria): **una asignatura no se imparte dos veces el mismo día en el mismo curso**, "por todos los medios" (blanda con peso muy alto, o dura si la matemática lo permite).
+
+## Jornada y servicios
+- Tipos de jornada: **completa** y **reducida**. Hay que **indicar las horas de cada profesor** previamente.
+- Nuevos tipos de actividad en el horario del profesor (además de recreos/comedor/guardia biblioteca):
+  - **Guardias** (de sustitución, ver módulo de sustituciones).
+  - **Seminarios por la tarde** (refuerzo, profesores de Secundaria; también hay de Primaria).
+  - **Atención a familias** (tutorías).
+  - **Almuerzo**: una hora obligatoria por profesor.
+  - **Reuniones de equipos de trabajo**: los miembros del equipo deben **coincidir**.
+- Reglas de lugar: no hay; sólo importa que no coincidan en franja con otra cosa.
+- **Jornada completa de ejemplo: 8:30–16:30.**
+
+## Ejemplo real (jefa de estudios, jornada completa)
+| Concepto | Cantidad |
+|---|---|
+| Clases con 2º ESO | 3 |
+| Clases con 3º ESO | 3 |
+| Clases con 4º ESO | 3 |
+| Clases con 1º Bach (rama salud) | 4 |
+| Clases con 1º Bach (rama tecnológica) | 4 |
+| Clases con 2º Bach (rama salud) | 4 |
+| Clases con 2º Bach (rama tecnológica) | 4 |
+| Seminarios (1 Secundaria, 1 Primaria) | 2 |
+| Recreo | 1 |
+| Guardias | 3 |
+| Atención a familias | 1 |
+| Almuerzo | 1 (obligatorio) |
+
+## Centro
+- **Etapas:** 6 cursos de Primaria, 4 de ESO, 2 de Bachillerato, 2 de Bachillerato Internacional.
+- Horario **igual todos los días**; Primaria y Secundaria **no comparten todas las franjas** (algunas sí).
+- **Aulas y profesores dinámicos** (se mueven los alumnos): el reparto de grupos debe **tener en cuenta la capacidad de las aulas**.
+- **No hay condiciones personales** de profesores (días libres, etc.).
+- Hay **profesores que dan clase en todas las etapas**.
+- El Excel del curso actual llegará cuando jefatura responda; mientras tanto se avanza con lo disponible.
+
+## Nuevo módulo: Sustituciones
+Si un profesor falta un día:
+1. Se toman todas sus **horas de clase** de ese día.
+2. Cada una se **cubre con un profesor que tenga guardia asignada en esa franja**.
+3. Se **genera un Excel de ese día** con el cuadrante de cobertura.
+(Con reparto equitativo y avisos si faltan guardias en alguna franja.)

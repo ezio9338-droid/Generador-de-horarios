@@ -72,6 +72,11 @@ Es un problema NP-difícil (*School Timetabling*) con muchas reglas que se cruza
 - Gestión de **incidencias a mitad de curso**: baja de un profesor, cambio de grupo, sustituciones.
 - **Entregable:** flujo "cambio → regenerar → ver diferencias".
 
+### Fase 6b — Módulo de sustituciones diarias
+- Entrada: profesor ausente + fecha. Salida: Excel del día con cada hora lectiva cubierta por un profesor de guardia en esa franja.
+- Criterios: reparto equitativo, preferencia por profesores del mismo curso/materia, aviso de franjas sin cobertura.
+- **Entregable:** `Sustituciones_<fecha>.xlsx` en un clic.
+
 ### Fase 7 — Salidas e interfaz
 - Exportación: horario por profesor/grupo/aula (Excel, PDF), formato para importar en la plataforma del colegio (si existe: Séneca, Alexia, Educamos, iSéneca, etc., según el caso).
 - Interfaz sencilla para jefatura (probablemente web local).
